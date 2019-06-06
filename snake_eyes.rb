@@ -12,3 +12,5 @@ def snake_eye()
   end
   return count
 end
+
+snake_eye()
